@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.exe
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.deps.json
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.runtimeconfig.json
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.runtimeconfig.dev.json
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.dll
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\ref\Exercicio 3.dll
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\bin\Debug\net5.0\Exercicio 3.pdb
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.AssemblyInfo.cs
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.dll
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\ref\Exercicio 3.dll
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.pdb
+D:\Back-end senai\Exercicios POO 1\Exercicio 3\obj\Debug\net5.0\Exercicio 3.genruntimeconfig.cache
